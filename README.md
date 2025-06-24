@@ -1,11 +1,11 @@
-# 👋 Hello, I'm Sourabh!
+# 👋 Hey there, I'm Sourabh!
 
-🎓 **Aspiring Web Developer**  
-💡 Exploring the world of **Frontend Development** with a love for clean UI & modern designs  
+🎓 Passionate learner exploring the world of **programming** and **technology**  
+🧠 Always curious, always building something new  
 
 ---
 
-### 💻 Languages I Use
+### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,7 +13,7 @@
 
 ---
 
-### 🌐 Web Skills
+### 🌐 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-254BDD?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -21,20 +21,12 @@
 
 ---
 
-### 🚀 Recent Project
-**[Dev Snap](https://sourabh001s.github.io/Dev-Snap/)** – A stylish sidebar UI built using **HTML + CSS**  
-🌓 Features light/dark mode, icon effects, and modern gradients
+### 🔧 Currently Working On
+- Strengthening Data Structures & Algorithms
+- Improving problem-solving skills
+- Building consistent habits around coding & tech
 
 ---
 
-### 🛠️ Currently Learning
-- JavaScript (deep dive)
-- DOM Manipulation
-- Responsive design principles
-
----
-
-### 📬 Let's Connect!
-I'm always open to feedback, collaboration, or just a techy chat!
-
-[![GitHub](https://img.shields.io/badge/GitH)]()
+### 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sourabh001S)
