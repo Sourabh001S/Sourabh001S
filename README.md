@@ -1,7 +1,8 @@
 # 👋 Hey there, I'm Sourabh!
 
-🎓 Passionate learner exploring the world of **programming** and **technology**  
-🧠 Always curious, always building something new  
+🎓 Student at IIIT Delhi, pursuing B.Tech in Computer Science and Biosciences (CSB)  
+🧠 Passionate learner exploring the world of programming and technology  
+💡 Always curious, always building something new  
 
 ---
 
@@ -22,9 +23,9 @@
 ---
 
 ### 🔧 Currently Working On
-- Strengthening Data Structures & Algorithms
-- Improving problem-solving skills
-- Building consistent habits around coding & tech
+- Strengthening data structures and algorithms  
+- Exploring development through hands-on mini projects  
+- Learning consistently, one step at a time  
 
 ---
 
